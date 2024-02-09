@@ -6,8 +6,7 @@
 
 <p align="left>
   <a href="kenanwastaken.online">
-    <img src="https://custom-icon-badges.demolab.com/badge/-info@kenanwastaken.online-red?style=for-the-badge&logo=mention&logoColor=white"></img>
-  </a>
+    <img src="https://custom-icon-badges.demolab.com/badge/-info@kenanwastaken.online-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
 </p>
 
 ![kek-angry](https://github.com/KenanWasTaken/KenanWasTaken/assets/61794478/06cee92e-4f1c-4072-b2f7-55c016ce4aaa)
