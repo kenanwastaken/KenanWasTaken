@@ -4,7 +4,7 @@
 
 ### Merhaba! Ben Kenan Karaçayır. Yazılım dünyasına yeni adım atan 13 yaşında bir geliştiriciyim. 8. sınıf öğrencisiyim ve yazılım konusunda oldukça başarılı olduğumu söyleyebilirim. Yeniliklere açık bir şekilde her gün yeni şeyler öğreniyor ve yeni atılımlar yapmak için heyecanla çalışıyorum.
 
-<p align="left>
+<p align="left">
   <a href="kenanwastaken.online">
     <img src="https://custom-icon-badges.demolab.com/badge/-info@kenanwastaken.online-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
 </p>
