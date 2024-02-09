@@ -12,7 +12,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/ISTANBUL-TR-purple?style=for-the-badge&logo=location&logo=mention&logoColor=white"/>
   </a>
   <a href="https://kenanwastaken.online">
-    <img src="[https://custom-icon-badges.demolab.com/badge/ISTANBUL-TR-purple?style=for-the-badge&logo=location&logo=mention&logoColor=white](https://custom-icon-badges.demolab.com/badge/KENANWASTAKEN.ONLINE-blue.svg?style=for-the-badge&logo=websitenig&logoColor=white)"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/KENANWASTAKEN.ONLINE-blue.svg?style=for-the-badge&logo=websitenig&logoColor=white"/>
   </a>
 </p>
 
