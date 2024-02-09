@@ -1,7 +1,5 @@
 # 🧥 Hey, This is kenanwastaken!
 
----
-
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=2000&random=false&width=435&lines=Kenan;kenanwastaken;kxnan)](https://git.io/typing-svg)
 
 **`he/him | programmer/developer`**
