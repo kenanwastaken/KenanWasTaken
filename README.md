@@ -9,7 +9,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/-info@kenanwastaken.online-red?style=for-the-badge&logo=mention&logoColor=white"/>
   </a>
   <a href="https://www.turkiye.gov.tr">
-    <img src="https://custom-icon-badges.demolab.com/badge/ISTANBUL-TR-red?style=for-the-badge&logo=location&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/ISTANBUL-TR-purple?style=for-the-badge&logo=location&logo=mention&logoColor=white"/>
   </a>
 </p>
 
