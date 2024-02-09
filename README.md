@@ -6,7 +6,11 @@
 
 <p align="left">
   <a href="https://kenanwastaken.online">
-    <img src="https://custom-icon-badges.demolab.com/badge/-info@kenanwastaken.online-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+    <img src="https://custom-icon-badges.demolab.com/badge/-info@kenanwastaken.online-red?style=for-the-badge&logo=mention&logoColor=white"/>
+  </a>
+  <a href="https://www.turkiye.gov.tr">
+    <img src="https://custom-icon-badges.demolab.com/badge/ISTANBUL-TR-red?style=for-the-badge&logo=location&logoColor=white"/>
+  </a>
 </p>
 
 ![kek-angry](https://github.com/KenanWasTaken/KenanWasTaken/assets/61794478/06cee92e-4f1c-4072-b2f7-55c016ce4aaa)
