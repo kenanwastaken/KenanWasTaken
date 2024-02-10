@@ -1,8 +1,8 @@
-# 🧥 Hey, This is [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&random=false&width=435&lines=kenanwastaken;kxnan;Kenan)](https://git.io/typing-svg)
+# 🧥 Hey, This is [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&random=false&width=435&lines=kenanwastaken!;kxnan!;Kenan!)](https://git.io/typing-svg)
 
 **`he/him | programmer/developer`**
 
-### Merhaba! Ben Kenan Karaçayır. Yazılım dünyasına yeni adım atan 13 yaşında bir geliştiriciyim. 8. sınıf öğrencisiyim ve yazılım konusunda oldukça başarılı olduğumu söyleyebilirim. Yeniliklere açık bir şekilde her gün yeni şeyler öğreniyor ve yeni atılımlar yapmak için heyecanla çalışıyorum.
+### Merhaba! Ben Kenan. Yazılım dünyasına yeni adım atan 13 yaşında bir geliştiriciyim. 8. sınıf öğrencisiyim ve yazılım konusunda oldukça başarılı olduğumu söyleyebilirim. Yeniliklere açık bir şekilde her gün yeni şeyler öğreniyor ve yeni atılımlar yapmak için heyecanla çalışıyorum.
 
 <p align="left">
   <a href="https://kenanwastaken.online">
