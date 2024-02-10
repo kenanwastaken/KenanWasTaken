@@ -1,6 +1,4 @@
-# 🧥 Hey, This is
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-
+# 🧥 Hey, This is <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 **`he/him | programmer/developer`**
 
 ### Merhaba! Ben Kenan. Yazılım dünyasına yeni adım atan 13 yaşında bir geliştiriciyim. 8. sınıf öğrencisiyim ve yazılım konusunda oldukça başarılı olduğumu söyleyebilirim. Yeniliklere açık bir şekilde her gün yeni şeyler öğreniyor ve yeni atılımlar yapmak için heyecanla çalışıyorum.
