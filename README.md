@@ -1,4 +1,4 @@
-# 🧥 Hey, This is [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&random=false&width=435&lines=kenanwastaken!;kxnan!;Kenan!)](https://git.io/typing-svg)
+# 🧥 Hey, This is [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 **`he/him | programmer/developer`**
 
