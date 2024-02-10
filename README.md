@@ -1,7 +1,8 @@
 # 🧥 Hey, This is kenanwastaken
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Python.py;C%23.cs;C%2B%2B.cpp)](https://git.io/typing-svg)
-**`he/him | programmer/developer`**
+
+## **`he/him | programmer/developer`**
 
 ### Merhaba! Ben Kenan. Yazılım dünyasına yeni adım atan 13 yaşında bir geliştiriciyim. 8. sınıf öğrencisiyim ve yazılım konusunda oldukça başarılı olduğumu söyleyebilirim. Yeniliklere açık bir şekilde her gün yeni şeyler öğreniyor ve yeni atılımlar yapmak için heyecanla çalışıyorum.
 
