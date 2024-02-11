@@ -17,6 +17,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/ISTANBUL-TR-purple?style=for-the-badge&logo=location&logo=mention&logoColor=white"/>
   </a>
 </p>
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
