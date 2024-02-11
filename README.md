@@ -20,8 +20,8 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-![kek-angry](https://github.com/KenanWasTaken/KenanWasTaken/assets/61794478/06cee92e-4f1c-4072-b2f7-55c016ce4aaa)
-
 ![](https://github-readme-stats.vercel.app/api?username=kenanwastaken&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kenanwastaken&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenanwastaken&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![kek-angry](https://github.com/KenanWasTaken/KenanWasTaken/assets/61794478/06cee92e-4f1c-4072-b2f7-55c016ce4aaa)
