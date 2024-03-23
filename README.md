@@ -25,3 +25,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenanwastaken&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![kek-angry](https://github.com/KenanWasTaken/KenanWasTaken/assets/61794478/06cee92e-4f1c-4072-b2f7-55c016ce4aaa)
+
+<p class="styled-input">
+  <input type="text" id="inputField" required>
+  <label for="inputField">Your Input</label>
+</p>
