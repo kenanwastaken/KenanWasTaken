@@ -4,7 +4,7 @@
 
 ### **`he/him | programmer/developer`**
 
-### Merhaba! Ben Kenan. Yazılım dünyasına adım atan 13 yaşında bir geliştiriciyim. 8. sınıf öğrencisiyim ve yazılım konusunda oldukça başarılı olduğumu söyleyebilirim. Yeniliklere açık bir şekilde her gün yeni şeyler öğreniyor ve yeni atılımlar yapmak için heyecanla çalışıyorum.
+### Merhaba! Ben Kenan. Yazılım dünyasına adım atan 14 yaşında bir geliştiriciyim. 9. sınıf öğrencisiyim ve yazılım konusunda oldukça başarılı olduğumu söyleyebilirim. Yeniliklere açık bir şekilde her gün yeni şeyler öğreniyor ve yeni atılımlar yapmak için heyecanla çalışıyorum.
 
 <p align="left">
   <a href="https://kenanwastaken.online">
