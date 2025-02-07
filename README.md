@@ -6,10 +6,10 @@
 
 <p align="left">
   <a href="https://kenanwastaken.online">
-    <img src="https://custom-icon-badges.demolab.com/badge/-info@kenanwastaken.online-red?style=for-the-badge&logo=mention&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-info@kxnan.xyz-red?style=for-the-badge&logo=mention&logoColor=white"/>
   </a>
   <a href="https://kenanwastaken.online">
-    <img src="https://custom-icon-badges.demolab.com/badge/KENANWASTAKEN.ONLINE-blue.svg?style=for-the-badge&logo=websitenig&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/KXNAN.XYZ-blue.svg?style=for-the-badge&logo=websitenig&logoColor=white"/>
   </a>
   <a href="https://www.turkiye.gov.tr">
     <img src="https://custom-icon-badges.demolab.com/badge/ISTANBUL-TR-purple?style=for-the-badge&logo=location&logo=mention&logoColor=white"/>
