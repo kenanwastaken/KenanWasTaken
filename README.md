@@ -1,4 +1,4 @@
-# 🧥 Hey, This is kenanwastaken
+# 🧥 Hey, I'm kenanwastaken
 ### **`he/him | programmer/developer`**
 
 #### A teenager interested on making programs breaks software.
